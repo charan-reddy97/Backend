@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\Practice\serializationbasics\bin\Debug\serializationbasics.exe.config
+C:\Users\VMUser\source\repos\Practice\serializationbasics\bin\Debug\serializationbasics.exe
+C:\Users\VMUser\source\repos\Practice\serializationbasics\bin\Debug\serializationbasics.pdb
+C:\Users\VMUser\source\repos\Practice\serializationbasics\obj\Debug\serializationbasics.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\Practice\serializationbasics\obj\Debug\serializationbasics.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\Practice\serializationbasics\obj\Debug\serializationbasics.exe
+C:\Users\VMUser\source\repos\Practice\serializationbasics\obj\Debug\serializationbasics.pdb

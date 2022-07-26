@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\hastabl\debug\bin\Debug\debug.exe.config
+C:\Users\VMUser\source\repos\hastabl\debug\bin\Debug\debug.exe
+C:\Users\VMUser\source\repos\hastabl\debug\bin\Debug\debug.pdb
+C:\Users\VMUser\source\repos\hastabl\debug\obj\Debug\debug.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\hastabl\debug\obj\Debug\debug.exe
+C:\Users\VMUser\source\repos\hastabl\debug\obj\Debug\debug.pdb
+C:\Users\VMUser\source\repos\hastabl\debug\obj\Debug\debug.csproj.AssemblyReference.cache

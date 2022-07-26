@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\Practice\Inheritanc\bin\Debug\Inheritanc.exe.config
+C:\Users\VMUser\source\repos\Practice\Inheritanc\bin\Debug\Inheritanc.exe
+C:\Users\VMUser\source\repos\Practice\Inheritanc\bin\Debug\Inheritanc.pdb
+C:\Users\VMUser\source\repos\Practice\Inheritanc\obj\Debug\Inheritanc.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\Practice\Inheritanc\obj\Debug\Inheritanc.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\Practice\Inheritanc\obj\Debug\Inheritanc.exe
+C:\Users\VMUser\source\repos\Practice\Inheritanc\obj\Debug\Inheritanc.pdb

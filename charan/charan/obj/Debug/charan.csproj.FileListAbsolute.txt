@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\charan\charan\bin\Debug\charan.exe.config
+C:\Users\VMUser\source\repos\charan\charan\bin\Debug\charan.exe
+C:\Users\VMUser\source\repos\charan\charan\bin\Debug\charan.pdb
+C:\Users\VMUser\source\repos\charan\charan\obj\Debug\charan.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\charan\charan\obj\Debug\charan.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\charan\charan\obj\Debug\charan.exe
+C:\Users\VMUser\source\repos\charan\charan\obj\Debug\charan.pdb

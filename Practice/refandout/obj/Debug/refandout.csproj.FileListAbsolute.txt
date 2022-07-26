@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\Practice\refandout\bin\Debug\refandout.exe.config
+C:\Users\VMUser\source\repos\Practice\refandout\bin\Debug\refandout.exe
+C:\Users\VMUser\source\repos\Practice\refandout\bin\Debug\refandout.pdb
+C:\Users\VMUser\source\repos\Practice\refandout\obj\Debug\refandout.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\Practice\refandout\obj\Debug\refandout.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\Practice\refandout\obj\Debug\refandout.exe
+C:\Users\VMUser\source\repos\Practice\refandout\obj\Debug\refandout.pdb

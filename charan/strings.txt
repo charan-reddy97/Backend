@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Data conversions, Configuration: Debug Any CPU ------
+1>C:\Users\VMUser\Desktop\CGI\Data conversions\Program.cs(29,20,29,31): warning CS0219: The variable 'samplstring' is assigned but its value is never used
+1>  Data conversions -> C:\Users\VMUser\Desktop\CGI\Data conversions\bin\Debug\Data conversions.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

@@ -1,0 +1,18 @@
+﻿  @model HelloWeb.Model.Book
+  @if (Model != null)
+    {
+        <div>
+            <label>Book ID</label> @Model.Id
+        </div>
+         <div>
+          <label>Name</label> @Model.Name
+        </div>
+         <div>
+            <label>Author</label> @Model.Author
+         </div> 
+    }
+   else
+   {
+    <div class="alert alert-danger m-5">Book cannot be found</div>
+   }
+

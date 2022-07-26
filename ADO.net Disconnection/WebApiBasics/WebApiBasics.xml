@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiBasics</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiBasics.Controllers.LoginController.GenerateJWTToken(System.String,System.String)">
+            <summary>
+            Generates Token if user is  valid
+            </summary>
+            <param name="userName">UserName</param>
+            <param name="role"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

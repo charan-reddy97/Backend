@@ -1,0 +1,60 @@
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\Hello Web App.exe
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\Hello Web App.deps.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\Hello Web App.runtimeconfig.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\Hello Web App.runtimeconfig.dev.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\Hello Web App.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\Hello Web App.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\Hello Web App.Views.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\Hello Web App.Views.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.AssemblyInfoInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.AssemblyInfo.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\staticwebassets\Hello Web App.StaticWebAssets.Manifest.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\staticwebassets\Hello Web App.StaticWebAssets.xml
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hello Web App.styles.css
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.RazorTargetAssemblyInfo.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.genruntimeconfig.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.csproj.CopyComplete
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.RazorAssemblyInfo.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.RazorAssemblyInfo.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.TagHelpers.input.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.TagHelpers.output.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.RazorCoreGenerate.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.RazorTargetAssemblyInfo.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Hello Web App.Views.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Razor\Views\Home\AboutUs.cshtml.g.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Razor\Views\Calculator\Index.cshtml.g.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Razor\Views\TaxCalculator\TaxCal.cshtml.g.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Layout.cshtml.g.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Razor\Views\Book\Index.cshtml.g.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Razor\Views\Book\Details.cshtml.g.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\obj\Debug\netcoreapp3.1\Razor\Views\Book\Edit.cshtml.g.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\MyBookLibrary.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello Web App\bin\Debug\netcoreapp3.1\MyBookLibrary.pdb

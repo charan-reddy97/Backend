@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\hastabl\hastabl\bin\Debug\hastabl.exe.config
+C:\Users\VMUser\source\repos\hastabl\hastabl\bin\Debug\hastabl.exe
+C:\Users\VMUser\source\repos\hastabl\hastabl\bin\Debug\hastabl.pdb
+C:\Users\VMUser\source\repos\hastabl\hastabl\obj\Debug\hastabl.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\hastabl\hastabl\obj\Debug\hastabl.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\hastabl\hastabl\obj\Debug\hastabl.exe
+C:\Users\VMUser\source\repos\hastabl\hastabl\obj\Debug\hastabl.pdb

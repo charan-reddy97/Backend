@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "charan", "charan\charan.csproj", "{7262C9F6-8C85-4583-A13F-57985B6DD445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data conversions", "..\..\..\Desktop\CGI\Data conversions\Data conversions.csproj", "{BACF75E9-76CD-4B03-83A3-39949D3567C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7262C9F6-8C85-4583-A13F-57985B6DD445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7262C9F6-8C85-4583-A13F-57985B6DD445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7262C9F6-8C85-4583-A13F-57985B6DD445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7262C9F6-8C85-4583-A13F-57985B6DD445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACF75E9-76CD-4B03-83A3-39949D3567C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACF75E9-76CD-4B03-83A3-39949D3567C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACF75E9-76CD-4B03-83A3-39949D3567C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACF75E9-76CD-4B03-83A3-39949D3567C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E49D96-7A53-4519-9307-5348A7E4A0CA}
+	EndGlobalSection
+EndGlobal

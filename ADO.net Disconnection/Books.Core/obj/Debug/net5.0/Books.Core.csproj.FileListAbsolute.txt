@@ -1,0 +1,15 @@
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\bin\Debug\net5.0\Books.Core.deps.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\bin\Debug\net5.0\Books.Core.runtimeconfig.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\bin\Debug\net5.0\Books.Core.runtimeconfig.dev.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\bin\Debug\net5.0\Books.Core.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\bin\Debug\net5.0\ref\Books.Core.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\bin\Debug\net5.0\Books.Core.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\obj\Debug\net5.0\Books.Core.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\obj\Debug\net5.0\Books.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\obj\Debug\net5.0\Books.Core.AssemblyInfoInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\obj\Debug\net5.0\Books.Core.AssemblyInfo.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\obj\Debug\net5.0\Books.Core.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\obj\Debug\net5.0\Books.Core.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\obj\Debug\net5.0\ref\Books.Core.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\obj\Debug\net5.0\Books.Core.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Books.Core\obj\Debug\net5.0\Books.Core.genruntimeconfig.cache

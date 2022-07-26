@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "fPVh1aIIRGn1XzAevKoT2i47Zvrn1YlgP4lJBm0DTTK4h38RI450aoePEHKEgXh7vHDmP4mjIH0xM4YkJeVsUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VMUser\\source\\repos\\ADO.net Disconnection\\NewGetBasics\\NuGetBasics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VMUser\\.nuget\\packages\\barcode\\2022.5.5918\\barcode.2022.5.5918.nupkg.sha512",
+    "C:\\Users\\VMUser\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\VMUser\\.nuget\\packages\\colorconsole\\1.0.1\\colorconsole.1.0.1.nupkg.sha512",
+    "C:\\Users\\VMUser\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\VMUser\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\VMUser\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\VMUser\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\VMUser\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\VMUser\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ColorConsole 1.0.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "ColorConsole",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary1\bin\Debug\netcoreapp3.1\MyBookLibrary.deps.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary1\bin\Debug\netcoreapp3.1\MyBookLibrary.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary1\bin\Debug\netcoreapp3.1\MyBookLibrary.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary1\obj\Debug\netcoreapp3.1\MyBookLibrary.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary1\obj\Debug\netcoreapp3.1\MyBookLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary1\obj\Debug\netcoreapp3.1\MyBookLibrary.AssemblyInfoInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary1\obj\Debug\netcoreapp3.1\MyBookLibrary.AssemblyInfo.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary1\obj\Debug\netcoreapp3.1\MyBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary1\obj\Debug\netcoreapp3.1\MyBookLibrary.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary1\obj\Debug\netcoreapp3.1\MyBookLibrary.pdb

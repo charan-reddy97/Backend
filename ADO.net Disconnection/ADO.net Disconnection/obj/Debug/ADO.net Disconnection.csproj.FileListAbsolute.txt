@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\ADO.net Disconnection\ADO.net Disconnection\bin\Debug\ADO.net Disconnection.exe.config
+C:\Users\VMUser\source\repos\ADO.net Disconnection\ADO.net Disconnection\bin\Debug\ADO.net Disconnection.exe
+C:\Users\VMUser\source\repos\ADO.net Disconnection\ADO.net Disconnection\bin\Debug\ADO.net Disconnection.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\ADO.net Disconnection\obj\Debug\ADO.net Disconnection.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\ADO.net Disconnection\obj\Debug\ADO.net Disconnection.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\ADO.net Disconnection\obj\Debug\ADO.net Disconnection.exe
+C:\Users\VMUser\source\repos\ADO.net Disconnection\ADO.net Disconnection\obj\Debug\ADO.net Disconnection.pdb

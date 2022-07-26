@@ -1,0 +1,21 @@
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\ADO.Net 1.exe
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\ADO.Net 1.deps.json
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\ADO.Net 1.runtimeconfig.json
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\ADO.Net 1.runtimeconfig.dev.json
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\ADO.Net 1.dll
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\ADO.Net 1.pdb
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\obj\Debug\netcoreapp3.1\ADO.Net 1.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\obj\Debug\netcoreapp3.1\ADO.Net 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\obj\Debug\netcoreapp3.1\ADO.Net 1.AssemblyInfoInputs.cache
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\obj\Debug\netcoreapp3.1\ADO.Net 1.AssemblyInfo.cs
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\obj\Debug\netcoreapp3.1\ADO.Net 1.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\obj\Debug\netcoreapp3.1\ADO.Net 1.csproj.CopyComplete
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\obj\Debug\netcoreapp3.1\ADO.Net 1.dll
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\obj\Debug\netcoreapp3.1\ADO.Net 1.pdb
+C:\Users\VMUser\source\repos\ADO.Net 1\ADO.Net 1\obj\Debug\netcoreapp3.1\ADO.Net 1.genruntimeconfig.cache

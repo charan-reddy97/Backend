@@ -1,0 +1,11 @@
+Error:Book with id 100 is not found
+path:/api/books/byid/100Error:Book with id 100 is not found
+path:/api/books/byid/100Error:Book with id 100 is not found
+path:/api/books/byid/100Error:Book with id 1100 is not found
+path:/api/books/byid/1100Error:Book with id 12412341 is not found
+path:/api/books/byid/12412341Error:Book with id 90000 is not found
+path:/api/books/byid/90000Error:Book with id 90000 is not found
+path:/api/books/byid/90000
+Error:Book with id 90000 is not found
+
+path:/api/books/byid/90000

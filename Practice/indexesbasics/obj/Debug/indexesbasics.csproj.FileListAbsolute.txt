@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\Practice\indexesbasics\bin\Debug\indexesbasics.exe.config
+C:\Users\VMUser\source\repos\Practice\indexesbasics\bin\Debug\indexesbasics.exe
+C:\Users\VMUser\source\repos\Practice\indexesbasics\bin\Debug\indexesbasics.pdb
+C:\Users\VMUser\source\repos\Practice\indexesbasics\obj\Debug\indexesbasics.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\Practice\indexesbasics\obj\Debug\indexesbasics.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\Practice\indexesbasics\obj\Debug\indexesbasics.exe
+C:\Users\VMUser\source\repos\Practice\indexesbasics\obj\Debug\indexesbasics.pdb

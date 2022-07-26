@@ -1,0 +1,6 @@
+C:\Users\VMUser\source\repos\hastabl\MysampleLibrary\bin\Debug\MysampleLibrary.dll
+C:\Users\VMUser\source\repos\hastabl\MysampleLibrary\bin\Debug\MysampleLibrary.pdb
+C:\Users\VMUser\source\repos\hastabl\MysampleLibrary\obj\Debug\MysampleLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\hastabl\MysampleLibrary\obj\Debug\MysampleLibrary.dll
+C:\Users\VMUser\source\repos\hastabl\MysampleLibrary\obj\Debug\MysampleLibrary.pdb
+C:\Users\VMUser\source\repos\hastabl\MysampleLibrary\obj\Debug\MysampleLibrary.csproj.AssemblyReference.cache

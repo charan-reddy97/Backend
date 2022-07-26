@@ -1,0 +1,16 @@
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\bin\Debug\net5.0\LinqBasics.exe
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\bin\Debug\net5.0\LinqBasics.deps.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\bin\Debug\net5.0\LinqBasics.runtimeconfig.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\bin\Debug\net5.0\LinqBasics.runtimeconfig.dev.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\bin\Debug\net5.0\LinqBasics.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\bin\Debug\net5.0\ref\LinqBasics.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\bin\Debug\net5.0\LinqBasics.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\obj\Debug\net5.0\LinqBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\obj\Debug\net5.0\LinqBasics.AssemblyInfoInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\obj\Debug\net5.0\LinqBasics.AssemblyInfo.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\obj\Debug\net5.0\LinqBasics.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\obj\Debug\net5.0\LinqBasics.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\obj\Debug\net5.0\ref\LinqBasics.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\obj\Debug\net5.0\LinqBasics.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\obj\Debug\net5.0\LinqBasics.genruntimeconfig.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\LinqBasics\obj\Debug\net5.0\LinqBasics.csproj.AssemblyReference.cache

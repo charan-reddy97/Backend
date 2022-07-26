@@ -1,0 +1,9 @@
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary\bin\Debug\MyBookLibrary.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary\bin\Debug\MyBookLibrary.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary\bin\Debug\System.Data.SqlClient.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary\bin\Debug\System.Data.SqlClient.xml
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary\obj\Debug\MyBookLibrary.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary\obj\Debug\MyBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary\obj\Debug\MyBookLibrary.csproj.CopyComplete
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary\obj\Debug\MyBookLibrary.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\MyBookLibrary\obj\Debug\MyBookLibrary.pdb

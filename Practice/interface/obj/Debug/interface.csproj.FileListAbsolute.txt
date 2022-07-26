@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\Practice\interface\bin\Debug\@interface.exe.config
+C:\Users\VMUser\source\repos\Practice\interface\bin\Debug\@interface.exe
+C:\Users\VMUser\source\repos\Practice\interface\bin\Debug\@interface.pdb
+C:\Users\VMUser\source\repos\Practice\interface\obj\Debug\interface.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\Practice\interface\obj\Debug\interface.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\Practice\interface\obj\Debug\@interface.exe
+C:\Users\VMUser\source\repos\Practice\interface\obj\Debug\@interface.pdb

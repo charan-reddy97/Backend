@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\Practice\serialbasics\bin\Debug\serialbasics.exe.config
+C:\Users\VMUser\source\repos\Practice\serialbasics\bin\Debug\serialbasics.exe
+C:\Users\VMUser\source\repos\Practice\serialbasics\bin\Debug\serialbasics.pdb
+C:\Users\VMUser\source\repos\Practice\serialbasics\obj\Debug\serialbasics.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\Practice\serialbasics\obj\Debug\serialbasics.exe
+C:\Users\VMUser\source\repos\Practice\serialbasics\obj\Debug\serialbasics.pdb
+C:\Users\VMUser\source\repos\Practice\serialbasics\obj\Debug\serialbasics.csproj.AssemblyReference.cache

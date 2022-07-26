@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VMUser\\source\\repos\\charantest\\charantest\\charantest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VMUser\\source\\repos\\charantest\\charanb\\charanb.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VMUser\\source\\repos\\charantest\\charanb\\charanb.csproj",
+        "projectName": "charanb",
+        "projectPath": "C:\\Users\\VMUser\\source\\repos\\charantest\\charanb\\charanb.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\VMUser\\source\\repos\\charantest\\charantest\\charantest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VMUser\\source\\repos\\charantest\\charantest\\charantest.csproj",
+        "projectName": "charantest",
+        "projectPath": "C:\\Users\\VMUser\\source\\repos\\charantest\\charantest\\charantest.csproj",
+        "packagesPath": "C:\\Users\\VMUser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VMUser\\source\\repos\\charantest\\charantest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VMUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\VMUser\\source\\repos\\charantest\\charanb\\charanb.csproj": {
+                "projectPath": "C:\\Users\\VMUser\\source\\repos\\charantest\\charanb\\charanb.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

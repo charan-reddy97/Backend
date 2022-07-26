@@ -1,0 +1,16 @@
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\obj\Debug\MySampleLibraryTest.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\obj\Debug\MySampleLibraryTest.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\bin\Debug\MySampleLibraryTest.dll
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\bin\Debug\MySampleLibraryTest.pdb
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\bin\Debug\MysampleLibrary.dll
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\bin\Debug\MysampleLibrary.pdb
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\obj\Debug\MySampleLibraryTest.csproj.CopyComplete
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\obj\Debug\MySampleLibraryTest.dll
+C:\Users\VMUser\source\repos\hastabl\MySampleLibraryTest\obj\Debug\MySampleLibraryTest.pdb

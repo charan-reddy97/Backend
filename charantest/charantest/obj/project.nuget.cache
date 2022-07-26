@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+M3GQHVAqCsa4HDDCzFu/xAojpUg8n9Han+TgzWlgA14QezH8igqIrlGs0IQweRJFF6Zd1bnkCvt2YZUe6keGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VMUser\\source\\repos\\charantest\\charantest\\charantest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VMUser\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\VMUser\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\VMUser\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\VMUser\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

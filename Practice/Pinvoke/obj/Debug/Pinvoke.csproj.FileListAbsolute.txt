@@ -1,0 +1,7 @@
+C:\Users\VMUser\source\repos\Practice\Pinvoke\bin\Debug\Pinvoke.exe.config
+C:\Users\VMUser\source\repos\Practice\Pinvoke\bin\Debug\Pinvoke.exe
+C:\Users\VMUser\source\repos\Practice\Pinvoke\bin\Debug\Pinvoke.pdb
+C:\Users\VMUser\source\repos\Practice\Pinvoke\obj\Debug\Pinvoke.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\Practice\Pinvoke\obj\Debug\Pinvoke.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\Practice\Pinvoke\obj\Debug\Pinvoke.exe
+C:\Users\VMUser\source\repos\Practice\Pinvoke\obj\Debug\Pinvoke.pdb

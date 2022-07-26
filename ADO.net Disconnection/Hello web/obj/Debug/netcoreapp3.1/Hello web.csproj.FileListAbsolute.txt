@@ -1,0 +1,32 @@
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\bin\Debug\netcoreapp3.1\Hello web.exe
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\bin\Debug\netcoreapp3.1\Hello web.deps.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\bin\Debug\netcoreapp3.1\Hello web.runtimeconfig.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\bin\Debug\netcoreapp3.1\Hello web.runtimeconfig.dev.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\bin\Debug\netcoreapp3.1\Hello web.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\bin\Debug\netcoreapp3.1\Hello web.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.AssemblyInfoInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.AssemblyInfo.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\staticwebassets\Hello web.StaticWebAssets.Manifest.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\staticwebassets\Hello web.StaticWebAssets.xml
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\scopedcss\bundle\Hello web.styles.css
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.RazorTargetAssemblyInfo.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.genruntimeconfig.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\bin\Debug\netcoreapp3.1\Hello web.Views.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\bin\Debug\netcoreapp3.1\Hello web.Views.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.RazorAssemblyInfo.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.RazorAssemblyInfo.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.TagHelpers.input.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.TagHelpers.output.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.RazorCoreGenerate.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Razor\Properties\Views\Home\Index.cshtml.g.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.RazorTargetAssemblyInfo.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.Views.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\Hello web\obj\Debug\netcoreapp3.1\Hello web.csproj.CopyComplete

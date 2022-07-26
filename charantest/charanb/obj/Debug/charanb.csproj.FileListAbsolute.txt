@@ -1,0 +1,6 @@
+C:\Users\VMUser\source\repos\charantest\charanb\bin\Debug\charanb.dll
+C:\Users\VMUser\source\repos\charantest\charanb\bin\Debug\charanb.pdb
+C:\Users\VMUser\source\repos\charantest\charanb\obj\Debug\charanb.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\charantest\charanb\obj\Debug\charanb.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\charantest\charanb\obj\Debug\charanb.dll
+C:\Users\VMUser\source\repos\charantest\charanb\obj\Debug\charanb.pdb

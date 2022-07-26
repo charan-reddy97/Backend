@@ -1,0 +1,12 @@
+﻿
+<form action="/calculator" method="post">
+    <label for="FN">First Number</label>
+    <input type="number" id="FN" name="firstnumber" />
+    <label for="SN">First Number</label>
+    <input type="number" id="SN" name="secondnumber" />
+    <button type="submit">Calculate</button>
+    @if (ViewBag.sum != null)
+    {
+        <h2>Total is :@ViewBag.Sum</h2>
+    }
+</form>
