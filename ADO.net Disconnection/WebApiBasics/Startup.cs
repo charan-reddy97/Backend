@@ -34,7 +34,7 @@ namespace WebApiBasics
         {
             services.AddCors(options => {
                 options.AddPolicy("origin", builder=> {
-                    builder.WithOrigins("http://localhost:4200").AllowAnyHeader().AllowAnyMethod();                
+                    builder.WithOrigins("http://localhost:61859").AllowAnyHeader().AllowAnyMethod();                
                 });
             });
             services.AddControllers(options=> 

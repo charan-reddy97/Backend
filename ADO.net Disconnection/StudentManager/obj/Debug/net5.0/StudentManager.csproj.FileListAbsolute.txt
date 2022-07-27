@@ -1,0 +1,12 @@
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\bin\Debug\net5.0\StudentManager.deps.json
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\bin\Debug\net5.0\StudentManager.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\bin\Debug\net5.0\ref\StudentManager.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\bin\Debug\net5.0\StudentManager.pdb
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\obj\Debug\net5.0\StudentManager.csproj.AssemblyReference.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\obj\Debug\net5.0\StudentManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\obj\Debug\net5.0\StudentManager.AssemblyInfoInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\obj\Debug\net5.0\StudentManager.AssemblyInfo.cs
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\obj\Debug\net5.0\StudentManager.csproj.CoreCompileInputs.cache
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\obj\Debug\net5.0\StudentManager.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\obj\Debug\net5.0\ref\StudentManager.dll
+C:\Users\VMUser\source\repos\ADO.net Disconnection\StudentManager\obj\Debug\net5.0\StudentManager.pdb
